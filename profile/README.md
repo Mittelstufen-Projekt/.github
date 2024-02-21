@@ -1,12 +1,10 @@
-## Hi there 👋
+# Welcome to our project organisation 👋
 
-<!--
+## Description
+We plan on creating a workshop management system for small firms and companies that will be used to manage projects and materials inside their warehouses for easy control over overview over current and past projects and materials.
+Furthermore the application will contain a usermanagement system called keycloak which will be implemted via docker and will be used to manage the users and permissions for the application.
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## How does it work and what technologies are being used?
+We have two repositories: 
+1. One for the frontend written in Rust using the Slint framework for the GUI
+2. One for the backend using C# and the keycloak instance in a docker container
