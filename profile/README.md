@@ -8,4 +8,4 @@ Furthermore the application will contain a usermanagement system called keycloak
 We have three repositories: 
 1. One for the frontend written in Rust using the Slint framework for the GUI
 2. One for the backend using C# and the keycloak instance in a docker container
-3. One for the backend using Rust and Actix Web together with keycloak to verify the users permissions (Because we ran into issues with the C# COde)
+3. One for the backend using Rust and Actix Web together with keycloak to verify the users permissions (Because we ran into issues with the C# Code)
